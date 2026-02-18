@@ -1,4 +1,4 @@
-![logo](lecture/static/logo.png)
+![logo](lecture/static/logo1.png)
 
 some changes
 
