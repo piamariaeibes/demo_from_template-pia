@@ -2,7 +2,8 @@
 
 
 # Why do we need urban ecology & biodiversity?
-![logo1](../static/logo1.png)
+![logo1_image](https://github.com/piamariaeibes/demo_from_template-pia/blob/main/lecture/static/logo1.png?raw=true)
+
 
 ## The future is urban
 Until 2030, up to 70 % of the people worldwide will live in urban environments.
