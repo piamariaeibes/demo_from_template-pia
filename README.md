@@ -1,6 +1,4 @@
-![logo](lecture/static/logo1.png)
-
-some changes
+![logo1_image](https://github.com/piamariaeibes/demo_from_template-pia/blob/main/lecture/static/logo1.png?raw=true)
 
 
 ## "What's in this repository?"
