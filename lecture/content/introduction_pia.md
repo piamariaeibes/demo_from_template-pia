@@ -1,4 +1,4 @@
-![logo](lecture/static/logo1.png)
+![logo](lecture/content/static/logo1.png)
 
 # Why do we need urban ecology & biodiversity?
 
