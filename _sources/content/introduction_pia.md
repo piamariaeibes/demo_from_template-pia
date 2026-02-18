@@ -1,3 +1,5 @@
+![logo](lecture/static/logo1.png)
+
 # Why do we need urban ecology & biodiversity?
 
 ## The future is urban
